@@ -1,16 +1,13 @@
 //import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import Profile from './Profile'; // Assuming the Profile component is in a file named Profile.js
 //import MyImages from './Users/bamda/Desktop/Personal\ informations/My\ Pics/SF\ copy.jpeg';
 //import myImage from './SF.jpeg';
-import ShoppingList from './ShoppingList'; 
+import ShoppingList from './CourseList'; 
 import MyButton from './MyButton';
 
-// const products = [
-//   { title: 'Cabbage', id: 1 },
-//   { title: 'Garlic', id: 2 },
-//   { title: 'Apple', id: 3 },
-// ];
+
 
 
 function App() {
