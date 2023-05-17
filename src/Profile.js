@@ -1,8 +1,10 @@
 import React from 'react';
 
 const user = {
-  name: 'Neman Faiz',
-  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
+  name: 'BamdadGoshtasbi',
+  //imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
+  //imageUrl: 'https://avatars.githubusercontent.com/u/51804836?v=4',
+  imageUrl: 'https://i.scdn.co/image/ab67616d00001e02b151437d4adc97ce6c828d4a',
   imageSize: 90,
 };
 
