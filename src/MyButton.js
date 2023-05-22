@@ -1,12 +1,12 @@
 import React from 'react';
 export default function MyButton() {
     function handleClick() {
-      alert('You clicked me!');
+      alert('See the projects');
     }
   
     return (
       <button onClick={handleClick}>
-        Click me
+        See projects
       </button>
     );
   }
